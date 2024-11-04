@@ -1,0 +1,6 @@
+/home/dmitry/CXXProjects/Time_HW4/build/CMakeFiles/main.dir
+/home/dmitry/CXXProjects/Time_HW4/build/CMakeFiles/edit_cache.dir
+/home/dmitry/CXXProjects/Time_HW4/build/CMakeFiles/rebuild_cache.dir
+/home/dmitry/CXXProjects/Time_HW4/build/time/CMakeFiles/Time.dir
+/home/dmitry/CXXProjects/Time_HW4/build/time/CMakeFiles/edit_cache.dir
+/home/dmitry/CXXProjects/Time_HW4/build/time/CMakeFiles/rebuild_cache.dir
